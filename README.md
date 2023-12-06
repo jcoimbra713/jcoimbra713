@@ -18,5 +18,5 @@
 </div>
 
 <div> 
-![joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcoimbra713&show_icons=true&theme=radical)
+![joao GitHub stats](https://github-readme-stats.vercel.app/api?username=jcoimbra713&show_icons=true&theme=radical)
 </div>
