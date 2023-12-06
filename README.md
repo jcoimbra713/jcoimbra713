@@ -17,10 +17,6 @@
   
 </div>
 
-##
-
 <div> 
-
- ![joaocoimbra](https://github-readme-stats.vercel.app/api?username=jcoimbra713_icons=true&theme=transparent)
-
+![joaocoimbra](https://github-readme-stats.vercel.app/api?username=jcoimbra713_icons=true&theme=transparent)
 </div>
